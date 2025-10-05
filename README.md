@@ -1,0 +1,2 @@
+# KnowledgeScout
+Django and NLP
